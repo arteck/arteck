@@ -1,5 +1,11 @@
 ### Hi all 👋
 
+My name is Arthur Rupp. I'm a software developer for different languages, for more than 30 years. 
+
+For the past 10 years, I have been working with Smart Home and Building automation.
+
+<br>
+
 <!--
 **arteck/arteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=arteck&theme=white&show_icons=true&count_private=true)
-
 
 [![ioBroker.fullybrowser](https://github-readme-stats.vercel.app/api/pin/?username=arteck&repo=ioBroker.fullybrowser)](https://github.com/arteck/ioBroker.fullybrowser)
 [![NPM version](http://img.shields.io/npm/v/iobroker.fullybrowser.svg)](https://www.npmjs.com/package/iobroker.fullybrowser) 
