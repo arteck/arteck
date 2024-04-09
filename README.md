@@ -60,9 +60,3 @@ Here are some ideas to get you started:
 ![Number of Installations](http://iobroker.live/badges/judoisoft-stable.svg) 
 ![Number of Installations](http://iobroker.live/badges/judoisoft-installed.svg) 
 [![Downloads](https://img.shields.io/npm/dm/iobroker.judoisoft.svg)](https://www.npmjs.com/package/iobroker.judoisoft)
-
-[![ioBroker.bydbatt](https://github-readme-stats.vercel.app/api/pin/?username=arteck&repo=ioBroker.bydbatt)](https://github.com/arteck/ioBroker.bydbatt)
-[![NPM version](http://img.shields.io/npm/v/iobroker.bydbatt.svg)](https://www.npmjs.com/package/iobroker.bydbatt)
-![Number of Installations](http://iobroker.live/badges/bydbatt-stable.svg) 
-![Number of Installations](http://iobroker.live/badges/bydbatt-installed.svg) 
-[![Downloads](https://img.shields.io/npm/dm/iobroker.bydbatt.svg)](https://www.npmjs.com/package/iobroker.bydbatt)
