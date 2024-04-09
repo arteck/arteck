@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=arteck&theme=white&show_icons=true&count_private=true)
 
+[![SMA_forecast_charging](https://github-readme-stats.vercel.app/api/pin/?username=arteck&repo=SMA_forecast_charging)](https://github.com/arteck/SMA_forecast_charging)
+
 [![ioBroker.fullybrowser](https://github-readme-stats.vercel.app/api/pin/?username=arteck&repo=ioBroker.fullybrowser)](https://github.com/arteck/ioBroker.fullybrowser)
 [![NPM version](http://img.shields.io/npm/v/iobroker.fullybrowser.svg)](https://www.npmjs.com/package/iobroker.fullybrowser) 
 ![Number of Installations](http://iobroker.live/badges/fullybrowser-stable.svg) 
@@ -60,3 +62,7 @@ Here are some ideas to get you started:
 ![Number of Installations](http://iobroker.live/badges/judoisoft-stable.svg) 
 ![Number of Installations](http://iobroker.live/badges/judoisoft-installed.svg) 
 [![Downloads](https://img.shields.io/npm/dm/iobroker.judoisoft.svg)](https://www.npmjs.com/package/iobroker.judoisoft)
+
+
+
+
