@@ -1,9 +1,12 @@
 ### Hi all 👋
+<br>
 
 I'm Arthur Rupp, a software developer with over 30 years of experience in designing and implementing solutions across multiple programming languages and platforms.
 <br>
+
 💻 My work spans embedded systems, network communication, and automation frameworks, with a strong focus on Smart Home and Building Automation during the past decade.
 <br>
+
 ⚙️ Within this field, I primarily develop integrations, adapters, and communication layers — especially for [ioBroker](https://iobroker.com/)
 
 <!--
