@@ -7,7 +7,7 @@ I'm Arthur Rupp, a software developer with over 30 years of experience in design
 💻 My work spans embedded systems, network communication, and automation frameworks, with a strong focus on Smart Home and Building Automation during the past decade.
 <br>
 
-⚙️ Within this field, I primarily develop integrations, adapters, and communication layers — especially for [ioBroker](https://iobroker.com/)
+⚙️ Within this field, I primarily develop integrations, adapters, and communication layers — especially for [ioBroker](https://www.iobroker.net/)
 
 <!--
 **arteck/arteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
