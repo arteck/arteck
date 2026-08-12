@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=arteck&theme=white&show_icons=true&count_private=true)
 
 [![SMA_forecast_charging](https://github-readme-stats.vercel.app/api/pin/?username=arteck&repo=SMA_forecast_charging)](https://github.com/arteck/SMA_forecast_charging)
 
